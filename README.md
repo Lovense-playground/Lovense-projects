@@ -4,7 +4,6 @@ An important note: Here we will collect information about good and useful projec
 The creators and maintainers of this list do not receive any form of payment to accept a change made by any contributor. This page is not an official Lovense product in any way. It is a merely a curated list of links to projects and everybody is welcome to contribute. The goal of this repo is to index projects, not to advertise for profit.
 
 If your project is featured on the list and you would like it to be removed, please raise an issue and we'd be more than happy to do so.
-> **Please**, help organize these resources so that they are _easy to find_ and _understand_ for newcomers. See how to **[Contribute][contributing]** for tips!
 
 # Contents  <!-- omit in toc -->
 
