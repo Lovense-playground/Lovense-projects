@@ -62,5 +62,5 @@ If your project is featured on the list and you would like it to be removed, ple
 ## Virtual Reality
 
 - [VRChat Lovense Connect](https://github.com/PingerSurprise/VrcLovenseConnect) - VRCLovenseConnect is a .NET implementation of the Lovense Connect API and Buttplug.io to synchronize any connected toy with a VRChat avatar through OSC messages
-- [VRChat Vibrator Controller](https://github.com/MeepsKitten/VRChatVibratorController) - Lets you control your friends lovense using your VR controllers
+- [VRChat Vibrator Controller](https://github.com/markviews/VRChatVibratorController) - Lets you control your friends lovense using your VR controllers
 - [RealFeel](https://github.com/PlagueVRC/RealFeel) - RealFeel Is A Paid Tool By Plague That Brings Lovense Support Into VRChat Very Nicely, Global Support & Can Be Used With Your Lovense On Mobile Or PC
