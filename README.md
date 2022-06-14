@@ -33,6 +33,8 @@ If your project is featured on the list and you would like it to be removed, ple
 		- [VRChat Lovense Connect](#vrchat-lovense-connect)
 		- [VRChat Vibrator Controller](#vrchat-vibrator-controller)
 		- [RealFeel](#realfeel)
+	- [Other](#other)
+		- [Lovense Game Mode Test](#lovense-game-mode-test)	
 	
 
 # What is Lovense
@@ -64,3 +66,7 @@ If your project is featured on the list and you would like it to be removed, ple
 - [VRChat Lovense Connect](https://github.com/PingerSurprise/VrcLovenseConnect) - VRCLovenseConnect is a .NET implementation of the Lovense Connect API and Buttplug.io to synchronize any connected toy with a VRChat avatar through OSC messages
 - [VRChat Vibrator Controller](https://github.com/markviews/VRChatVibratorController) - Lets you control your friends lovense using your VR controllers
 - [RealFeel](https://github.com/PlagueVRC/RealFeel) - RealFeel Is A Paid Tool By Plague That Brings Lovense Support Into VRChat Very Nicely, Global Support & Can Be Used With Your Lovense On Mobile Or PC
+
+## Other
+
+- [Lovense Game Mode Test](https://github.com/Antonzlo/antonzlo.github.io/blob/90f14f1dac32266bcc45ae1d3ddfa09a20069609/lovense.html) - This is simple WIP controller to test if game mode works without QR (local net only)
