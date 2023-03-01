@@ -19,12 +19,15 @@ If your project is featured on the list and you would like it to be removed, ple
 	- [Twitter](https://twitter.com/Lovense)
 - [Where to start (for developers)](#where-to-start-for-developers)
 	
-- [Projects](#Projects)
+- [Projects](#projects)
 	- [Discord](#discord)
 		- [Lola Bot](#lola-bot)
 		- [Hush Bot](#hush-bot)
 		- [Rich Presence](#rich-presence)
 	- [Games](#games)
+		- [Whos Vibing](#whos-vibing)
+		- [Sexy Memory](#sexy-memory)
+		- [Hornyships](#hornyships)
 		- [Beat Saber](#beat-saber)
 		- [Counter Strike: Global Offensive](#counter-strike-global-offensive)
 	- [OnlyFans](#onlyfans)
@@ -48,13 +51,16 @@ If your project is featured on the list and you would like it to be removed, ple
 > We appreciate any sort of contributions, and don't want a wall of rules to get in the way of that. So if you're unsure or afraid of anything, just ask. When submitting a project, please take into account that we don’t allow for plagiarized project submissions. 
 
 ## Discord
-
 - [Lola Bot](https://github.com/lolabray/lolabot) - The Discord Bot that controls your Lovense toys
 - [Hush Bot](https://github.com/Ameliaaaaaaa/HushBot) - A Discord bot made to control the Lovense Hush device
 - [Rich Presence](https://github.com/Jul1aK0wal1k/LovenseDiscordRichPresence) - Allows for displaying the status of your Lovense toys on your Discord profile
 
 ## Games
 
+- [Whos Vibing](https://whos-vibing.luneko.repl.co/) - Try to act like a bot and to find which bot is your partner. The closer you are from your partner, the faster the vibes will be.
+- [Sexy Memory](https://amawares.co.uk/projv/sexymemory/) - Match Pairs and for each successive Pair you match - Vibration increases. Compete by yourself or against a friend for the best score. 
+- [Hornyships](https://github.com/Furimanejo/LovenseJamFeb2023) - A Lovense-powered game of battleship (codename Hornyships). 
+Made with the Unity engine, built only for Windows atm.
 - [Beat Saber](https://github.com/Sesch69/LovenseBSControl) - Control the vibrations of Lovense Toys with direct playing the VR game Beat Saber
 - [Counter Strike: Global Offensive](https://github.com/estrogen/lovense.gs) - A Lua for the Counter-Strike: Global Offensive cheat Gamesense which controls a Lovense sextoy through Lan API requests
 
