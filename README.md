@@ -59,8 +59,8 @@ If your project is featured on the list and you would like it to be removed, ple
 
 ## Games
 
-- [Music&Girls](https://github.com/Lu-neko/Music-and-Girls) -  Discover the diversity and greatness of female musicians/composers, with a lot of styles.
-- [Which Woman Worded](https://whichwomanworded.sextoygames.repl.co/)
+- [Music&Girls](https://github.com/Lu-neko/Music-and-Girls) - Discover the diversity and greatness of female musicians/composers, with a lot of styles.
+- [Which Woman Worded](https://whichwomanworded.sextoygames.repl.co/) - Work your way through a list of 10 Influential Women as the Vibes increase with your awesome knowledge.
 - [Whos Vibing](https://github.com/Lu-neko/Whos_Vibing) - Try to act like a bot and to find which bot is your partner. The closer you are from your partner, the faster the vibes will be.
 - [Sexy Memory](https://amawares.co.uk/projv/sexymemory/) - Match Pairs and for each successive Pair you match - Vibration increases. Compete by yourself or against a friend for the best score. 
 - [Hornyships](https://github.com/Furimanejo/LovenseJamFeb2023) - A Lovense-powered game of battleship (codename Hornyships). 
