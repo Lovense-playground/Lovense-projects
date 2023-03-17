@@ -25,6 +25,7 @@ If your project is featured on the list and you would like it to be removed, ple
 		- [Hush Bot](#hush-bot)
 		- [Rich Presence](#rich-presence)
 	- [Games](#games)
+		- [Music&Girls](#music&girls)
 		- [Whos Vibing](#whos-vibing)
 		- [Sexy Memory](#sexy-memory)
 		- [Hornyships](#hornyships)
@@ -57,6 +58,7 @@ If your project is featured on the list and you would like it to be removed, ple
 
 ## Games
 
+- [Music&Girls](https://github.com/Lu-neko/Music-and-Girls) -  Discover the diversity and greatness of female musicians/composers, with a lot of styles
 - [Whos Vibing](https://github.com/Lu-neko/Whos_Vibing) - Try to act like a bot and to find which bot is your partner. The closer you are from your partner, the faster the vibes will be.
 - [Sexy Memory](https://amawares.co.uk/projv/sexymemory/) - Match Pairs and for each successive Pair you match - Vibration increases. Compete by yourself or against a friend for the best score. 
 - [Hornyships](https://github.com/Furimanejo/LovenseJamFeb2023) - A Lovense-powered game of battleship (codename Hornyships). 
